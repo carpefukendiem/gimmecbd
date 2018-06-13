@@ -7,7 +7,7 @@ import Img from "gatsby-image";
 import logo from "../../images/gimme-cbd-logo.svg";
 
 const HeaderWrapper = styled.div`
-  background: #524763;
+  background-image: linear-gradient(to left bottom, #5e07d4, #006cff, #009dff, #00c5fa, #0be6e5);
   margin-bottom: 1.45rem;
   overflow: hidden;
   position: relative;
